@@ -7,7 +7,7 @@ def copy_array(arr, n):
         new_arr[i] = arr[i]
     return new_arr
 
-# Example Usage
+
 copied_array = copy_array(arr, 5)
 print(copied_array)  
 
